@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deardrops&#39; Blog</title>
-    <link>/</link>
-    <description>Recent content on Deardrops&#39; Blog</description>
+    <title>Posts on Deardrops&#39; Blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Deardrops&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
     <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -57,15 +57,6 @@
       <description>&lt;p&gt;&lt;strong&gt;TillerinoBot&lt;/strong&gt; 银河系第一的 osu! 机器人，&lt;br /&gt;
 拥有查询 pp，推荐谱面，恶意卖萌（划掉）等强大功能的终端，&lt;br /&gt;
 由德国程序员 &lt;a href=&#34;https://github.com/Tillerino&#34;&gt;Tillerino&lt;/a&gt; 开发。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>OSU！Vocaloid Beatmap Packs 整理区</title>
-      <link>/osu/</link>
-      <pubDate>Sat, 05 Dec 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/osu/</guid>
-      <description>&lt;p&gt;音乐游戏 osu! 的 Vocaloid 谱面包，个人整理。（2015 年版本）&lt;/p&gt;</description>
     </item>
     
   </channel>

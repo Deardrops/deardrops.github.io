@@ -1,14 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Terminal</title>
+    <title>Tags on Deardrops&#39; Blog</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Terminal</description>
+    <description>Recent content in Tags on Deardrops&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cozy</title>
+      <link>/tags/cozy/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cozy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drive</title>
+      <link>/tags/drive/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Host</title>
+      <link>/tags/self-host/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self-host/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

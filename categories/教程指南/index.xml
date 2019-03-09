@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程指南 on Deardrops&#39; Blog</title>
+    <link>/categories/%E6%95%99%E7%A8%8B%E6%8C%87%E5%8D%97/</link>
+    <description>Recent content in 教程指南 on Deardrops&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/%E6%95%99%E7%A8%8B%E6%8C%87%E5%8D%97/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>从零搭建 cozy 个人网盘</title>
+      <link>/post/build-your-cozy-cloud-drive-server/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/build-your-cozy-cloud-drive-server/</guid>
+      <description>&lt;p&gt;这篇文章指导从零开始搭建一个 cozy 网盘的过程，由于官方文档还不是很完善，只给出了 Debian 和 Raspbian 系统下的安装指南。我们这里抛开指南中的繁琐步骤，使用 docker 简单几步安装，支持所有操作系统环境。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
